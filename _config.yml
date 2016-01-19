@@ -1,0 +1,28 @@
+name: Ambrosia Varaschin Photography
+favicon: null
+layout_spectrum: 0.11100242892280221
+typography_spectrum: 0.26279886858537793
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9353346710558981
+  lightness: 0.41778025054372847
+  saturation: 0.17905422090552747
+  rhythmicContrast: 0.8355793978553265
+purpose: []
