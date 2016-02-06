@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ambrosia Varaschin Photography]]></title>
         <description><![CDATA[Ambrosia Varaschin Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ambrosia-varaschin-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 13:24:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 06 Feb 2016 16:48:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ambrosia-varaschin-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8cda6212-79a3-4581-a69e-05e9ae5cc846.jpg">]]></description>
+            <link>https://thegrid.ai/ambrosia-varaschin-photography/b4f7124b-b5d1-4126-89fc-488033702c99/index.html</link>
+            <guid isPermaLink="false">b4f7124b-b5d1-4126-89fc-488033702c99</guid>
+            <pubDate>Sat, 06 Feb 2016 16:47:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/00a6819a-5157-4f52-8fda-a1b3e39035e5.jpg">]]></description>
-            <link>undefined39ea02fe-8d4e-4250-a709-cf457f9b5375/index.html</link>
+            <link>https://thegrid.ai/ambrosia-varaschin-photography/39ea02fe-8d4e-4250-a709-cf457f9b5375/index.html</link>
             <guid isPermaLink="false">39ea02fe-8d4e-4250-a709-cf457f9b5375</guid>
             <pubDate>Tue, 19 Jan 2016 13:24:16 GMT</pubDate>
         </item>
